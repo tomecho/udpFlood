@@ -1,0 +1,38 @@
+single port
+---------------------
+--- 192.168.1.29 ping statistics ---
+47 packets transmitted, 47 received, 0% packet loss, time 46060ms
+rtt min/avg/max/mdev = 1.012/30.202/241.476/44.385 ms
+
+
+
+
+multiport
+---------------------
+--- 192.168.1.29 ping statistics ---
+44 packets transmitted, 44 received, 0% packet loss, time 43062ms
+rtt min/avg/max/mdev = 1.015/34.801/239.568/45.420 ms
+
+
+
+
+mass port attack multithread
+---------------------
+--- 192.168.1.29 ping statistics ---
+43 packets transmitted, 43 received, 0% packet loss, time 42063ms
+rtt min/avg/max/mdev = 17.421/44.132/276.313/39.639 ms
+tom@tommylaptop:~$ 
+
+
+
+single ports attack multithread 
+---------------------
+not worth it it sucks
+
+
+
+
+not under attack
+---------------------
+46 packets transmitted, 46 received, 0% packet loss, time 45066ms
+rtt min/avg/max/mdev = 0.966/2.870/24.546/4.709 ms
