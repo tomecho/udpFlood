@@ -4,7 +4,6 @@
 #  2/17/13             #
 #  writen for          #
 #     python 2.7       #
-#  by furmonk          #
 ########################
 import socket
 import random
