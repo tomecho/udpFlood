@@ -4,7 +4,6 @@
 #  2/17/13             #
 #  writen for          #
 #     python 2.7       #
-#  by furmonk          #
 ########################
 #todo: add: time, ctrl+c exit, exit w/o traceback
 import socket
